@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm karthick subramanian</h1>
 <h3 align="center">A passionate student from India.</h3>
-<img align="right" width="400" src=""
+<img align="right" width="400" src="C:\Users\karth\Downloads\gitty.jpg">
 - 🌱 I’m currently learning **App development**
 
 - 💬 Ask me about **PHP ,Java ,Python etc.**
