@@ -1,13 +1,15 @@
 <!-- <h1 align="center">Hello 👋, I'm karthick subramanian</h1>
 <h3 align="center">A passionate student from India.</h3> -->
+
 <img align="center" width="400" src="https://github.com/karthick1000/karthick1000/issues/1#issue-1091374856">
-- 🌱 I’m currently learning **App development**
 
-- 💬 Ask me about **PHP ,Java ,Python etc.**
+🌱 I’m currently learning **App development**
 
-- 📫 How to reach me **karthicksubramanian2003@gmail.com**
+💬 Ask me about **PHP ,Java ,Python etc.**
 
-- ⚡ Fun fact **The hobby that I could never give up is gaming.**
+📫 How to reach me **karthicksubramanian2003@gmail.com**
+
+⚡ Fun fact **The hobby that I could never give up is gaming.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
