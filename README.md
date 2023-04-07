@@ -3,7 +3,7 @@
 
 <!-- <img align="center" width="400" src="https://github.com/karthick1000/karthick1000/issues/1#issue-1091374856"> -->
 
-🌱 I’m currently learning **MLops**
+🌱 I’m currently learning **Machine Learning.**
 
 💬 Ask me about **Web, App, Blockchain development**
 
